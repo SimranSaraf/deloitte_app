@@ -1,2 +1,5 @@
 feature 1 to feature 2.
-its updated
+its updated.
+add
+check status
+commit
